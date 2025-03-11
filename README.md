@@ -1,4 +1,4 @@
-This is the repository of the paper _"How Do Mobile Applications Enhance Security? An Exploratory Analysis of Use Cases and Provided Information"_, accepted to the 58th Hawaii International Conference on System Sciences ([ACMSE'25](https://acmse.net/2025/)).
+This is the repository of the paper _"How Do Mobile Applications Enhance Security? An Exploratory Analysis of Use Cases and Provided Information"_, accepted to the 2025 ACM Southeast Conference ([ACMSE'25](https://acmse.net/2025/)).
 
 If you use any of our resources, you are kindly invited to cite our paper:
 
